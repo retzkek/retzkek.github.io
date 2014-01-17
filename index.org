@@ -1,0 +1,29 @@
+#+TITLE:      Kevin Retzke
+#+AUTHOR:     Kevin Retzke
+#+EMAIL:      retzkek@gmail.com
+#+OPTIONS:    H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc
+#+STYLE: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
+
+* Mission
+I am a driven, creative individual seeking to apply engineering principles to solve challenging real-world problems. I enjoy obtaining new knowledge and skills to enrich myself, and am always on the lookout for ways to apply this knowledge across disciplines.
+
+* Interests
+  - I enjoy programming and learning new programming languages and ways of thinking. My favorite languages are [[http://shop.oreilly.com/product/0636920025108.do][C]], [[http://python.org][Python]], [[http://golang.org][Go]], and [[http://clojure.org][Clojure]]. I have experimented with many more languages, and am quick to play around with something that looks interesting (e.g. [[http://elm-lang.org][Elm]]). I have a few of my tinkerings on [[http://github.com/retzkek][Github]]. My favorite editor is Vim, but I have been learning Emacs, primarily for [[http://orgmode.org][org-mode]]; I have also been really enjoying [[http://lightable.com][Light Table]], especially for Clojure development.
+  - I am an avid gamer, some of my favorite games recently are Borderlands 2, Mass Effect 3, Eve Online, Team Fortress 2, and Dota 2.
+  - In an effort to lose weight (so far successful, but still a ways to go) I have become an adherent to a low carb or ketogenic (keto) or paleo-ish diet. While every body is different, mine certainly perorms better when carbohydrates are kept to a minimum. This, along with [[http://stronglifts.com][StrongLifts 5x5]] and a [[http://geekdesk.com][standing desk]] have become my recipe for a healthier me.
+
+* Education
+  - BS Nuclear Engineering, Purdue University, 2004
+  
+* Experience
+
+** Engineer, [[http://transware.net][TransWare Enterprises Inc]], January 2005 - Present
+
+   - Performed and reviewed engineering analyses in the following key areas: RPV and internals fluence evaluations, core performance and design, and dry cask storage. Applied engineering principles to develop methodologies to solve new challenges. Performed work in accordance with all applicable federal regulations, NRC and industry guidelines, and corporate and client QA programs.
+   - Experience with industr-standard software, including MCNP, Cask Loader, SIMULATE, CASMO, BWRVIA, and RAMA, as well as numerous internal tools which I was also involved in developing.
+   - Languages and technologies used for development work include Fortran, Python, C++, VTK, Qt, OpenCascade, BRL-CAD, PostgreSQL, SQLite, Objective-C, Cocoa, BASH, AWK, and Git. Environment was primarily Linux servers with variously Linux, Mac OS X, and Windows desktops.
+
+** Nuclear Engineering Co-op, Xcel Energy, August 2000 - August 2003
+
+   - Two four-month terms in the Reactor Engineering department at Prairie Island Nuclear Generating Plant. Assisted reactor engineers in daily tasks, including cooperation with various work groups including operations, maintenance, and radiation protection. Tasks included core monitoring, new fuel inspection, and startup physics testing.
+   - Three four-month terms in the Nuclear Analysis and Design group at the corporate office in Minneapolis, MN. Performed and reviewed PWR core physics calculations, including Startup and Operations Report (SOR) and Final Reload Design Review calculations using primarily CASMO/SIMULATE software packages, in addition to numerous general engineering evaluations.
