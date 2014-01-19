@@ -2,7 +2,7 @@
 #+AUTHOR:     Kevin Retzke
 #+EMAIL:      retzkek@gmail.com
 #+OPTIONS:    H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc
-#+STYLE: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
 
 * Mission
 I am a driven, creative individual seeking to apply engineering principles to solve challenging real-world problems. I enjoy obtaining new knowledge and skills to enrich myself, and am always on the lookout for ways to apply this knowledge across disciplines.
