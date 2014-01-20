@@ -1,0 +1,55 @@
+graph home {
+     #rankdir=LR;
+      node [shape=box];
+      shepard [label="Firewall\n\"shepard\"\nOpenBSD"];
+      edi [label="NAS\n\"edi\"\nFreeNAS"];
+      glyph [label="DB Server\n\"glyph\"\nFreeBSD (hosted on edi)"];
+      wrex [label="Primary/gaming desktop\n\"wrex\"\nWindows 7"];
+      liara [label="Dev box\n\"liara\"\nSteamOS (changes often)"];
+      garrus [label="Dell Inspiron 14z Laptop\n\"garrus\"\nArch Linux"];
+      xbox [label="XBOX360"];
+      ps3 [label="Playstation 3"];
+      chrome [label="Chromecast"];
+      avr [shape=diamond,label="Denon AVR-3313CI"];
+      node [shape=oval];
+      benq [label="BenQ W1070 Projector"];
+      asusl [label="ASUS 24\" Monitor (Left)"];
+      asusr [label="ASUS 24\" Monitor (Right)"];
+      dell [label="Dell 2713HM 27\" Monitor"];
+      node [shape=parallelogram];
+      wan;
+      switch;
+      wap;
+      # network
+      edge [label="CAT"];
+      wan -- shepard;
+      shepard -- switch;
+      switch -- edi;
+      switch -- glyph;
+      switch -- wrex;
+      switch -- liara;
+      switch -- garrus;
+      switch -- xbox;
+      switch -- ps3;
+      switch -- wap;
+      # AV
+      wrex -- dell [label="DisplayPort"];
+      wrex -- asusl [label="DVI"];
+      wrex -- asusr [label="DVI"];
+      liara -- avr [label="HDMI"];
+      liara -- asusl [label="VGA"];
+      shepard -- asusr [label="VGA"];
+      edi -- asusr [label="VGA"];
+      xbox -- avr [label="HDMI"];
+      ps3 -- avr [label="HDMI"];
+      chrome -- avr [label="HDMI"];
+      avr -- benq [label="(Zone 1) HDMI"];
+      avr -- dell [label="(Zone 1) HDMI"];
+      avr -- asusl [label="(Zone 2) HDMI"];
+}
+		      
+		      
+		      
+		      
+		      
+		       

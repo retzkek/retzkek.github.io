@@ -1,5 +1,5 @@
 #+TITLE:      Kevin M. Retzke
-#+AUTHOR:     Kevin Retzke
+#+AUTHOR:     Kevin M. Retzke
 #+EMAIL:      retzkek@gmail.com
 #+OPTIONS:    H:3 num:nil toc:nil \n:nil @:t ::t |:t ^:t -:t f:t *:t TeX:t LaTeX:t skip:nil d:(HIDE) tags:not-in-toc
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="http://thomasf.github.io/solarized-css/solarized-dark.min.css" />
@@ -9,6 +9,7 @@ I am a driven, creative individual seeking to apply engineering principles to so
 
 * Interests
   - I enjoy programming and learning new programming languages and ways of thinking. My favorite languages are [[http://shop.oreilly.com/product/0636920025108.do][C]], [[http://python.org][Python]], [[http://golang.org][Go]], and [[http://clojure.org][Clojure]]. I have experimented with many more languages, and am quick to play around with something that looks interesting (e.g. [[http://elm-lang.org][Elm]]). I have a few of my tinkerings on [[http://github.com/retzkek][Github]]. My favorite editor is Vim, but I have been learning Emacs, primarily for [[http://orgmode.org][org-mode]]; I have also been really enjoying [[http://lightable.com][Light Table]], especially for Clojure development.
+  - I enjoy working with operating systems, hardware, and networking. For more details see my [[file:battlestation.org][BATTLESTATION]] page.
   - I am an avid gamer, some of my favorite games recently are Borderlands 2, Mass Effect 3, Eve Online, Team Fortress 2, and Dota 2.
   - In an effort to lose weight (so far successful, but still a ways to go) I have become an adherent to a low carb or ketogenic (keto) or paleo-ish diet. While every body is different, mine certainly performs better when carbohydrates are kept to a minimum. This, along with [[http://stronglifts.com][StrongLifts 5x5]] and a [[http://geekdesk.com][standing desk]] have become my recipe for a healthier me.
 
