@@ -3,7 +3,7 @@
   <channel>
       <title>Recent Content on KMR </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://www.kmr.me/index.xml/</link>
+    <link>http://retzkek.github.io/index.xml/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>Spent Fuel Population Statistics</title>
-      <link>http://www.kmr.me/portfolio/sfp_population_scatter/</link>
+      <link>http://retzkek.github.io/portfolio/sfp_population_scatter/</link>
       <pubDate>Sat, 21 Jun 2014 07:48:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/sfp_population_scatter/</guid>
+      <guid>http://retzkek.github.io/portfolio/sfp_population_scatter/</guid>
       <description>&lt;p&gt;Generated in R.&lt;/p&gt;
 
 &lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
@@ -23,10 +23,10 @@
     
     <item>
       <title>Spent Fuel Pool Decay Heat</title>
-      <link>http://www.kmr.me/portfolio/sfp_decay_heat/</link>
+      <link>http://retzkek.github.io/portfolio/sfp_decay_heat/</link>
       <pubDate>Sat, 21 Jun 2014 07:46:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/sfp_decay_heat/</guid>
+      <guid>http://retzkek.github.io/portfolio/sfp_decay_heat/</guid>
       <description>&lt;p&gt;Generated in Excel.&lt;/p&gt;
 
 &lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
@@ -35,10 +35,10 @@
     
     <item>
       <title>BWR RPV Rollout</title>
-      <link>http://www.kmr.me/portfolio/rollout/</link>
+      <link>http://retzkek.github.io/portfolio/rollout/</link>
       <pubDate>Sat, 21 Jun 2014 07:44:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/rollout/</guid>
+      <guid>http://retzkek.github.io/portfolio/rollout/</guid>
       <description>&lt;p&gt;Generated with Gnuplot from proprietary data files with BASH script.&lt;/p&gt;
 
 &lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>BWR 3D Model</title>
-      <link>http://www.kmr.me/portfolio/full_model/</link>
+      <link>http://retzkek.github.io/portfolio/full_model/</link>
       <pubDate>Sat, 21 Jun 2014 07:42:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/full_model/</guid>
+      <guid>http://retzkek.github.io/portfolio/full_model/</guid>
       <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
 proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
@@ -60,10 +60,10 @@ proprietary data files of 3D model and calculation results.&lt;/p&gt;
     
     <item>
       <title>Drywell Dose</title>
-      <link>http://www.kmr.me/portfolio/drywell_dose/</link>
+      <link>http://retzkek.github.io/portfolio/drywell_dose/</link>
       <pubDate>Sat, 21 Jun 2014 07:40:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/drywell_dose/</guid>
+      <guid>http://retzkek.github.io/portfolio/drywell_dose/</guid>
       <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
 that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
@@ -73,10 +73,10 @@ that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
     
     <item>
       <title>Core Map</title>
-      <link>http://www.kmr.me/portfolio/coremap/</link>
+      <link>http://retzkek.github.io/portfolio/coremap/</link>
       <pubDate>Sat, 21 Jun 2014 07:38:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/coremap/</guid>
+      <guid>http://retzkek.github.io/portfolio/coremap/</guid>
       <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
 proprietary data files and allows user to interactively view axial and
 radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
@@ -87,10 +87,10 @@ radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
     
     <item>
       <title>Cask Diagram</title>
-      <link>http://www.kmr.me/portfolio/cask_diagram/</link>
+      <link>http://retzkek.github.io/portfolio/cask_diagram/</link>
       <pubDate>Sat, 21 Jun 2014 07:36:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/cask_diagram/</guid>
+      <guid>http://retzkek.github.io/portfolio/cask_diagram/</guid>
       <description>&lt;p&gt;Drawn in DraftSight, based on dimensions and materials from fabrication drawings.
 The drawing was used to build a 3D analytic model in the MCNP particle transport
 code, which was used to compute neutron and gamma dose rates.&lt;/p&gt;
@@ -101,10 +101,10 @@ code, which was used to compute neutron and gamma dose rates.&lt;/p&gt;
     
     <item>
       <title>Cask 3D Geometry</title>
-      <link>http://www.kmr.me/portfolio/cask_3d_geometry/</link>
+      <link>http://retzkek.github.io/portfolio/cask_3d_geometry/</link>
       <pubDate>Sat, 21 Jun 2014 07:34:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/cask_3d_geometry/</guid>
+      <guid>http://retzkek.github.io/portfolio/cask_3d_geometry/</guid>
       <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
 that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
@@ -114,10 +114,10 @@ that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
     
     <item>
       <title>Cask 3D Dose</title>
-      <link>http://www.kmr.me/portfolio/cask_3d_dose/</link>
+      <link>http://retzkek.github.io/portfolio/cask_3d_dose/</link>
       <pubDate>Sat, 21 Jun 2014 07:32:16 UTC</pubDate>
       
-      <guid>http://www.kmr.me/portfolio/cask_3d_dose/</guid>
+      <guid>http://retzkek.github.io/portfolio/cask_3d_dose/</guid>
       <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
 that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
@@ -127,10 +127,10 @@ that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
     
     <item>
       <title>About</title>
-      <link>http://www.kmr.me/about/</link>
+      <link>http://retzkek.github.io/about/</link>
       <pubDate>Sat, 21 Jun 2014 06:25:00 UTC</pubDate>
       
-      <guid>http://www.kmr.me/about/</guid>
+      <guid>http://retzkek.github.io/about/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Interests&lt;/h1&gt;
@@ -164,10 +164,10 @@ desk&lt;/a&gt; have become my recipe for a healthier me.&lt;/li&gt;
     
     <item>
       <title>Resume</title>
-      <link>http://www.kmr.me/resume/</link>
+      <link>http://retzkek.github.io/resume/</link>
       <pubDate>Sat, 21 Jun 2014 06:19:20 UTC</pubDate>
       
-      <guid>http://www.kmr.me/resume/</guid>
+      <guid>http://retzkek.github.io/resume/</guid>
       <description>
 
 &lt;h1 id=&#34;toc_0&#34;&gt;Kevin M. Retzke&lt;/h1&gt;
