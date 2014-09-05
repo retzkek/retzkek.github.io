@@ -76,17 +76,6 @@ p
   transition:all .5s ease 0
 }
 
-.navbar 
-{
-  display: none;
-}
-
-.navbar a 
-{
-  text-decoration: none;
-  border-bottom: 1px #b1b1b1 solid;
-}
-
 #sidebar-wrapper
 {
   margin-left:-250px;
