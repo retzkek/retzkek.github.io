@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on KMR </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://www.kmr.me/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 21 Jun 2014 07:48:16 UTC</updated>
+    
+    <item>
+      <title>Spent Fuel Population Statistics</title>
+      <link>http://www.kmr.me/portfolio/sfp_population_scatter/</link>
+      <pubDate>Sat, 21 Jun 2014 07:48:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/sfp_population_scatter/</guid>
+      <description>&lt;p&gt;Generated in R.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spent Fuel Pool Decay Heat</title>
+      <link>http://www.kmr.me/portfolio/sfp_decay_heat/</link>
+      <pubDate>Sat, 21 Jun 2014 07:46:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/sfp_decay_heat/</guid>
+      <description>&lt;p&gt;Generated in Excel.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR RPV Rollout</title>
+      <link>http://www.kmr.me/portfolio/rollout/</link>
+      <pubDate>Sat, 21 Jun 2014 07:44:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/rollout/</guid>
+      <description>&lt;p&gt;Generated with Gnuplot from proprietary data files with BASH script.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR 3D Model</title>
+      <link>http://www.kmr.me/portfolio/full_model/</link>
+      <pubDate>Sat, 21 Jun 2014 07:42:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/full_model/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
+proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drywell Dose</title>
+      <link>http://www.kmr.me/portfolio/drywell_dose/</link>
+      <pubDate>Sat, 21 Jun 2014 07:40:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/drywell_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Map</title>
+      <link>http://www.kmr.me/portfolio/coremap/</link>
+      <pubDate>Sat, 21 Jun 2014 07:38:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/coremap/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
+proprietary data files and allows user to interactively view axial and
+radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask Diagram</title>
+      <link>http://www.kmr.me/portfolio/cask_diagram/</link>
+      <pubDate>Sat, 21 Jun 2014 07:36:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_diagram/</guid>
+      <description>&lt;p&gt;Drawn in DraftSight, based on dimensions and materials from fabrication drawings.
+The drawing was used to build a 3D analytic model in the MCNP particle transport
+code, which was used to compute neutron and gamma dose rates.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask 3D Geometry</title>
+      <link>http://www.kmr.me/portfolio/cask_3d_geometry/</link>
+      <pubDate>Sat, 21 Jun 2014 07:34:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_3d_geometry/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask 3D Dose</title>
+      <link>http://www.kmr.me/portfolio/cask_3d_dose/</link>
+      <pubDate>Sat, 21 Jun 2014 07:32:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_3d_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://www.kmr.me/about/</link>
+      <pubDate>Sat, 21 Jun 2014 06:25:00 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/about/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Interests&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I enjoy programming and learning new programming languages and ways
+of thinking. My favorite languages are
+&lt;a href=&#34;http://shop.oreilly.com/product/0636920025108.do&#34;&gt;C&lt;/a&gt;,
+&lt;a href=&#34;http://python.org&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;http://golang.org&#34;&gt;Go&lt;/a&gt;, and
+&lt;a href=&#34;http://clojure.org&#34;&gt;Clojure&lt;/a&gt;. I have experimented with many more
+languages, and am quick to play around with something that looks
+interesting (e.g. &lt;a href=&#34;http://elm-lang.org&#34;&gt;Elm&lt;/a&gt;). I have a few of my
+tinkerings on &lt;a href=&#34;http://github.com/retzkek&#34;&gt;Github&lt;/a&gt;. My favorite
+editor is Vim, but I have been learning Emacs, primarily for
+&lt;a href=&#34;http://orgmode.org&#34;&gt;org-mode&lt;/a&gt;; I have also been really enjoying
+&lt;a href=&#34;http://lightable.com&#34;&gt;Light Table&lt;/a&gt;, especially for Clojure
+development.&lt;/li&gt;
+&lt;li&gt;I enjoy working with operating systems, hardware, and networking.&lt;/li&gt;
+&lt;li&gt;I am an avid gamer, some of my favorite games recently are
+Borderlands 2, Mass Effect 3, Eve Online, Team Fortress 2, and Dota
+2.&lt;/li&gt;
+&lt;li&gt;In an effort to lose weight (so far successful, but still a ways to
+go) I have become an adherent to a low carb or ketogenic (keto) or
+paleo-ish diet. While every body is different, mine certainly
+performs better when carbohydrates are kept to a minimum. This,
+along with &lt;a href=&#34;http://stronglifts.com&#34;&gt;StrongLifts 5x5&lt;/a&gt; and a &lt;a href=&#34;http://geekdesk.com&#34;&gt;standing
+desk&lt;/a&gt; have become my recipe for a healthier me.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://www.kmr.me/resume/</link>
+      <pubDate>Sat, 21 Jun 2014 06:19:20 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/resume/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;Kevin M. Retzke&lt;/h1&gt;
+
+&lt;p&gt;Email: &lt;a href=&#34;mailto:kevin.retzke@gmail.com&#34;&gt;kevin.retzke@gmail.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kmr.me&#34;&gt;Website&lt;/a&gt;
+&lt;a href=&#34;http://lnkd.in/bnyfJAF&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;MISSION&lt;/h2&gt;
+
+&lt;p&gt;I am a driven, creative individual seeking to apply engineering principles to
+solve challenging real-world problems. I enjoy obtaining new knowledge and
+skills to enrich myself,  personally and professionally, and am eager to apply
+knowledge across disciplines.&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_2&#34;&gt;EDUCATION&lt;/h2&gt;
+
+&lt;p&gt;BS Nuclear Engineering, Purdue University, 2004&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_3&#34;&gt;SKILLS&lt;/h2&gt;
+
+&lt;h4 id=&#34;toc_4&#34;&gt;Programming languages&lt;/h4&gt;
+
+&lt;p&gt;Python, Go, C++, SQL, Fortran, Objective-C, BASH, AWK, HTML, CSS, JavaScript&lt;/p&gt;
+
+&lt;h4 id=&#34;toc_5&#34;&gt;Technologies&lt;/h4&gt;
+
+&lt;p&gt;SQLite, PostgreSQL, Qt, VTK, OpenCascade, Cocoa, Django, Ruby on Rails&lt;/p&gt;
+
+&lt;h4 id=&#34;toc_6&#34;&gt;Operating Systems&lt;/h4&gt;
+
+&lt;p&gt;Windows, Linux, OpenBSD, Mac OS X&lt;/p&gt;
+
+&lt;h4 id=&#34;toc_7&#34;&gt;Applications&lt;/h4&gt;
+
+&lt;p&gt;Microsoft Office, OpenOffice, LaTeX, R, iPython, Gnuplot, Vim, Emacs, Git&lt;/p&gt;
+
+&lt;h2 id=&#34;toc_8&#34;&gt;EXPERIENCE&lt;/h2&gt;
+
+&lt;h4 id=&#34;toc_9&#34;&gt;Engineer, &lt;a href=&#34;http://transware.net&#34;&gt;TransWare Enterprises Inc&lt;/a&gt;, 01/2005 - 04/2014&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Performed and reviewed engineering analyses related to nuclear reactor
+operation.&lt;/li&gt;
+&lt;li&gt;Applied engineering principles to develop methodologies to solve new
+challenges.&lt;/li&gt;
+&lt;li&gt;Designed and developed software applications for performing
+engineering evaluations, data reporting and visualization, and web services.&lt;/li&gt;
+&lt;li&gt;Performed software testing and verification, and prepared software documentation.&lt;/li&gt;
+&lt;li&gt;Assisted in administration of 30-node Linux compute cluster and with Windows,
+Mac OS X, and Linux desktop support.&lt;/li&gt;
+&lt;li&gt;Managed project goals, schedules, and coordinated with client representatives.&lt;/li&gt;
+&lt;li&gt;Performed work in accordance with all applicable federal regulations, NRC and
+industry guidelines, and corporate and client QA programs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;toc_10&#34;&gt;Nuclear Engineering Co-op, Xcel Energy, 08/2000 - 08/2003&lt;/h4&gt;
+
+&lt;p&gt;Two four-month terms in the Reactor Engineering department at Prairie Island Nuclear Generating Plant.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Assisted reactor engineers in daily tasks, including cooperation with various work groups.&lt;/li&gt;
+&lt;li&gt;Initiated and developed database for tracking fuel assembly location, history, and information record keeping,
+replacing several spreadsheets and paper logs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Three four-month terms in the Nuclear Analysis and Design group at the corporate
+office in Minneapolis, MN.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Performed and reviewed reactor core physics calculations and general engineering evaluations.&lt;/li&gt;
+&lt;li&gt;Developed numerous software applications and scripts for performing analyses, retrieving data, and
+visualizing results.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

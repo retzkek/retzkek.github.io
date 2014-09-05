@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Portfolios on KMR </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://www.kmr.me/portfolio/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sat, 21 Jun 2014 07:48:16 UTC</updated>
+    
+    <item>
+      <title>Spent Fuel Population Statistics</title>
+      <link>http://www.kmr.me/portfolio/sfp_population_scatter/</link>
+      <pubDate>Sat, 21 Jun 2014 07:48:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/sfp_population_scatter/</guid>
+      <description>&lt;p&gt;Generated in R.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spent Fuel Pool Decay Heat</title>
+      <link>http://www.kmr.me/portfolio/sfp_decay_heat/</link>
+      <pubDate>Sat, 21 Jun 2014 07:46:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/sfp_decay_heat/</guid>
+      <description>&lt;p&gt;Generated in Excel.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR RPV Rollout</title>
+      <link>http://www.kmr.me/portfolio/rollout/</link>
+      <pubDate>Sat, 21 Jun 2014 07:44:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/rollout/</guid>
+      <description>&lt;p&gt;Generated with Gnuplot from proprietary data files with BASH script.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR 3D Model</title>
+      <link>http://www.kmr.me/portfolio/full_model/</link>
+      <pubDate>Sat, 21 Jun 2014 07:42:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/full_model/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
+proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drywell Dose</title>
+      <link>http://www.kmr.me/portfolio/drywell_dose/</link>
+      <pubDate>Sat, 21 Jun 2014 07:40:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/drywell_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Map</title>
+      <link>http://www.kmr.me/portfolio/coremap/</link>
+      <pubDate>Sat, 21 Jun 2014 07:38:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/coremap/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
+proprietary data files and allows user to interactively view axial and
+radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask Diagram</title>
+      <link>http://www.kmr.me/portfolio/cask_diagram/</link>
+      <pubDate>Sat, 21 Jun 2014 07:36:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_diagram/</guid>
+      <description>&lt;p&gt;Drawn in DraftSight, based on dimensions and materials from fabrication drawings.
+The drawing was used to build a 3D analytic model in the MCNP particle transport
+code, which was used to compute neutron and gamma dose rates.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask 3D Geometry</title>
+      <link>http://www.kmr.me/portfolio/cask_3d_geometry/</link>
+      <pubDate>Sat, 21 Jun 2014 07:34:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_3d_geometry/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask 3D Dose</title>
+      <link>http://www.kmr.me/portfolio/cask_3d_dose/</link>
+      <pubDate>Sat, 21 Jun 2014 07:32:16 UTC</pubDate>
+      
+      <guid>http://www.kmr.me/portfolio/cask_3d_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

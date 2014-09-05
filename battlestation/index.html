@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Battlestation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <link href="" rel="alternate" type="application/rss+xml" title="KMR" />
+  <link href="http://garrus:1313/css/bootstrap.min.css" rel="stylesheet">
+  <link href="http://garrus:1313/css/hc.css" rel="stylesheet">
+  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  
+    
+    </head>
+    <body>
+<div class="nav-toggle"><i class="fa fa-bars fa-2x"></i> Herring Cove </div>
+      <div id = "wrapper">
+
+
+<div class="navbar navbar-default" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <p class="navbar-brand">KMR</p>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+          <li><a href="http://garrus:1313/resume/">Resume</a></li>
+          <li><a href="http://garrus:1313/portfolio/">Portfolio</a></li>
+          <li><a href="http://garrus:1313/about/">About</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+
+
+       
+       <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+          <li class="sidebar-brand"><a href="http://garrus:1313/"><h1 class="brand">KMR</h1></a><h3></h3></li>
+          <hr />
+          <li><a href="http://garrus:1313/resume/">Resume</a></li>
+          <li><a href="http://garrus:1313/portfolio/">Portfolio</a></li>
+          <li><a href="http://garrus:1313/about/">About</a></li>
+          <hr />
+          <div id="social-wrapper">
+           
+           
+           
+           
+         </div>
+       </ul>
+     </div>
+
+
+
+     <div class="container">
+
+
+ <div id="article">
+   <div class="article-title">Battlestation</div>
+   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2014-06-21</small></p> <hr/>
+   <div class="post">
+     
+
+<p>This is my rifle. There are many like it but this one is mine.</p>
+
+<p><img src="http://i.imgur.com/MZkZqmX.jpg" alt="" />
+</p>
+
+<h2 id="toc_0">Firewall/router (shepard)</h2>
+
+<p>I built my own firewall/router to learn more about networking,
+originally using the hardware that became liara. About a year later I
+replaced it with a <a href="http://www.newegg.com/Product/Product.aspx?Item%3DN82E16813128585">Celeron
+combo</a>,
+primarily because I wanted to use the E350 as a media PC (and it was on
+sale). I also found a <a href="http://www.newegg.com/Product/Product.aspx?Item%3DN82E16811128072">perfect
+case</a>
+for it. Besides a short experiment with
+<a href="http://www.pfsense.org/">pfSense</a> (which worked well, but I was offput
+by the web UI), shepard has run stock
+<a href="http://www.openbsd.org/">OpenBSD</a>, which has been a pleasure to work
+with. pf is a fantastic firewall, and the <a href="http://www.openbsd.org/faq/index.html">OpenBSD
+FAQs</a> and man pages are some of
+the best documentation I&rsquo;ve come across. I&rsquo;ve learned a lot about
+networking and server management thanks to it.</p>
+
+<h2 id="toc_1">NAS (edi)</h2>
+
+<p>Edi was built to address the fact that I use multiple computers and
+operating systems on a daily basis. <a href="http://www.freenas.org/">FreeNAS</a>
+has been wonderful to use, and in my opinion easily matches what the
+commercial NAS products have to offer. The hardware is based on an <a href="http://www.newegg.com/Product/Product.aspx?Item%3DN82E16813157247">AMD
+E350
+combo</a>
+with 8GB RAM (zfs likes to maintain a large memory cache) and two WD 2TB
+drives (mirrored).</p>
+
+<p>This system also hosts glyph. a FreeBSD jail (easily set up with
+FreeNAS) that primarily runs my database servers (currently
+<a href="http://www.postgresql.org/">PostgreSQL</a>,
+<a href="http://www.mongodb.org/">MongoDB</a>, and
+<a href="http://camlistore.org/">Camlistore</a>).</p>
+
+<h2 id="toc_2">Desktop (wrex)</h2>
+
+<p>My current desktop/gaming machine has evolved over several generations;
+all that remains of the original are the optical drive and the case (it
+still has a 3.5&rdquo; floppy drive, but that hasn&rsquo;t been connected in years).
+The current hardware is getting a bit old, but it&rsquo;s still performing
+well for what I do. Wrex drives all three monitors typically, with
+worse-case load being three <a href="http://www.eveonline.com/">EVE</a> clients
+running at high quality.</p>
+
+<ul>
+<li>Phenom II X4 965</li>
+<li>16 GB DDR3</li>
+<li><a href="http://www.newegg.com/Product/Product.aspx?Item%3DN82E16814102999">Radeon HD
+7850</a></li>
+</ul>
+
+<h2 id="toc_3">Development (liara)</h2>
+
+<p>Liara has had a tumultuous past, originally acting as my router. It is a
+<a href="http://www.newegg.com/Product/Product.aspx?Item%3DN82E16856119057">Foxconn barebones
+E350</a>.
+Now I use it whenever I want to play around with an OS/distro &ldquo;on the
+metal&rdquo; instead of in a VM. Currently it&rsquo;s running
+<a href="http://store.steampowered.com/livingroom/SteamOS/">SteamOS</a>, although
+the E350 isn&rsquo;t powerful enough to handle most games. It also makes a
+great monitor stand for the fixed-height ASUS monitor (the other one is
+adjustable - I plan to get monitor mounts soon TM).</p>
+
+<h2 id="toc_4">Laptop (garrus)</h2>
+
+<p>My current portable machine (which I use for most development, when I
+can&rsquo;t &ldquo;borrow&rdquo; a MacBook from the office) is a <a href="http://www.engadget.com/2011/11/05/dell-inspiron-14z-review/">Dell Inspiron 14z
+(2011)</a>.
+It has had a couple operating systems on it during its life, and
+currently dual- boots Windows XP and <a href="https://www.archlinux.org/">Arch
+Linux</a>, the latter of which is used 90% of
+the time.</p>
+
+<h2 id="toc_5">Consoles</h2>
+
+<p>I have both an Xbox 360 and a Playstation 3. Most of my social gaming
+happens on the 360, while the PS3 is used for its exclusive games (e.g.
+<em>The Last of Us</em>) or its superior Netflix interface. I have no intention
+to get an Xbox One or a PS4, and will likely focus on PC gaming when the
+360 and PS3 become obsolete.</p>
+
+<p>I quickly picked up a Chromecast when it was released, and for \$35 it
+is well worth it. I gave up on watching Netflix on it due to various
+quirks, but regularly use it for music.</p>
+
+<h2 id="toc_6">Video</h2>
+
+<p>I have three primary monitors, acquired incrementally over the last few
+years. The latest acquisition, and centerpiece, is a <a href="http://www.dell.com/ed/business/p/dell-u2713hm/pd">Dell
+U2713HM</a> 27&rdquo;
+ultrasharp. Flanking it are two ASUS 24&rdquo; monitors. I also have a <a href="http://www.benq.us/product/projector/w1070/">BenQ
+W1070</a> 1080p projector,
+which is driven (along with a mixed bag of speakers) by a <a href="http://usa.denon.com/us/product/pages/productdetail.aspx?catid%3Davreceivers(denonna">Denon
+AVR-3313CI</a>&amp;pid%3Davr3313ci(denonna))
+receiver. The primary (zone 1) output also goes to the Dell monitor.
+Zone 2 of the receiver goes to the left monitor. The flexibility enabled
+by this receiver is amazing!</p>
+
+<h2 id="toc_7">Network Diagram</h2>
+
+<p><img src="http://i.imgur.com/NIYudaS.png" alt="" />
+</p>
+
+   </div>
+ </div>
+
+    </div>
+    <footer>
+
+        <p class="text-muted credit">&copy; 2014. All rights reserved. </p>
+    </footer>
+ 
+    <script src="http://garrus:1313/js/jquery-1.10.2.min.js"></script>
+    <script src="http://garrus:1313/js/bootstrap.min.js"></script>
+    <script src="http://garrus:1313/js/bootstrap.js"></script>
+    <script type="text/javascript" src="http://garrus:1313/js/hc.js"></script>
+<script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+
+</html>
+
