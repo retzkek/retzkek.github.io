@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Electronics on KMR </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://retzkek.github.io/categories/electronics/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Tue, 06 Sep 2005 02:49:59 CDT</updated>
+    
+    <item>
+      <title>Zipbot</title>
+      <link>http://retzkek.github.io/posts/zipbot/</link>
+      <pubDate>Tue, 06 Sep 2005 02:49:59 CDT</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/zipbot/</guid>
+      <description>&lt;p&gt;Built from parts from an old RC truck and a ZIP drive housing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Wanderbot</title>
+      <link>http://retzkek.github.io/posts/wanderbot/</link>
+      <pubDate>Tue, 06 Sep 2005 02:44:59 CDT</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/wanderbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentinelbot</title>
+      <link>http://retzkek.github.io/posts/sentinelbot/</link>
+      <pubDate>Tue, 06 Sep 2005 02:41:59 CDT</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/sentinelbot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

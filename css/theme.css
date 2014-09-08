@@ -70,3 +70,7 @@ p
   z-index:1;
   color:#cdcdcd
 }
+
+.posts {
+  list-style: none;
+}

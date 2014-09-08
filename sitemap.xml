@@ -3,58 +3,143 @@
   
   <url>
     <loc>http://retzkek.github.io/</loc>
-    <lastmod>2014-06-21T07:48:16+00:00</lastmod>
+    <lastmod>2014-06-21T06:19:20+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/sfp_population_scatter/</loc>
-    <lastmod>2014-06-21T07:48:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/sfp_decay_heat/</loc>
-    <lastmod>2014-06-21T07:46:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/rollout/</loc>
-    <lastmod>2014-06-21T07:44:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/full_model/</loc>
-    <lastmod>2014-06-21T07:42:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/drywell_dose/</loc>
-    <lastmod>2014-06-21T07:40:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/coremap/</loc>
-    <lastmod>2014-06-21T07:38:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/cask_diagram/</loc>
-    <lastmod>2014-06-21T07:36:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/cask_3d_geometry/</loc>
-    <lastmod>2014-06-21T07:34:16+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://retzkek.github.io/portfolio/cask_3d_dose/</loc>
-    <lastmod>2014-06-21T07:32:16+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://retzkek.github.io/resume/</loc>
     <lastmod>2014-06-21T06:19:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/rattles/</loc>
+    <lastmod>2014-05-14T20:17:23-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cloudflare-ddns/</loc>
+    <lastmod>2013-10-30T09:07:34-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/sfp_decay_heat/</loc>
+    <lastmod>2013-10-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cask_3d_geometry/</loc>
+    <lastmod>2013-08-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/dining_table/</loc>
+    <lastmod>2013-08-01T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cask_3d_dose/</loc>
+    <lastmod>2013-06-21T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/sfp_population_scatter/</loc>
+    <lastmod>2013-06-10T10:10:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cask_diagram/</loc>
+    <lastmod>2012-06-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/rollout/</loc>
+    <lastmod>2011-06-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cubes2/</loc>
+    <lastmod>2010-09-06T02:24:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/divergence/</loc>
+    <lastmod>2010-09-06T02:23:26-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/cubes1/</loc>
+    <lastmod>2010-09-06T02:17:03-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/butcher_block/</loc>
+    <lastmod>2010-09-06T02:14:47-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/drywell_dose/</loc>
+    <lastmod>2010-06-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/full_model/</loc>
+    <lastmod>2009-06-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/coremap/</loc>
+    <lastmod>2009-06-10T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/tea_lights/</loc>
+    <lastmod>2008-12-05T10:10:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/canada_storm/</loc>
+    <lastmod>2008-09-06T03:59:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/award_stand/</loc>
+    <lastmod>2008-09-06T02:08:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/office_trim/</loc>
+    <lastmod>2007-09-06T02:08:51-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/pinnacles/</loc>
+    <lastmod>2005-10-06T10:59:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/path_of_righteousness/</loc>
+    <lastmod>2005-09-06T03:59:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/zipbot/</loc>
+    <lastmod>2005-09-06T02:49:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/wanderbot/</loc>
+    <lastmod>2005-09-06T02:44:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/sentinelbot/</loc>
+    <lastmod>2005-09-06T02:41:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://retzkek.github.io/posts/gear_table/</loc>
+    <lastmod>2005-09-06T02:30:43-05:00</lastmod>
   </url>
   
 </urlset>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Data-Visualization on KMR </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://retzkek.github.io/categories/data-visualization/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Thu, 10 Oct 2013 10:10:10 UTC</updated>
+    
+    <item>
+      <title>Spent Fuel Pool Decay Heat</title>
+      <link>http://retzkek.github.io/posts/sfp_decay_heat/</link>
+      <pubDate>Thu, 10 Oct 2013 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/sfp_decay_heat/</guid>
+      <description>&lt;p&gt;Generated in Excel from ORIGEN decay heat calculations based on collected
+fuel assembly data.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cask 3D Dose</title>
+      <link>http://retzkek.github.io/posts/cask_3d_dose/</link>
+      <pubDate>Fri, 21 Jun 2013 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/cask_3d_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spent Fuel Population Statistics</title>
+      <link>http://retzkek.github.io/posts/sfp_population_scatter/</link>
+      <pubDate>Mon, 10 Jun 2013 10:10:12 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/sfp_population_scatter/</guid>
+      <description>&lt;p&gt;Generated in R from collected fuel assembly data.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR RPV Rollout</title>
+      <link>http://retzkek.github.io/posts/rollout/</link>
+      <pubDate>Fri, 10 Jun 2011 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/rollout/</guid>
+      <description>&lt;p&gt;Generated with Gnuplot from proprietary data files with BASH script.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Drywell Dose</title>
+      <link>http://retzkek.github.io/posts/drywell_dose/</link>
+      <pubDate>Thu, 10 Jun 2010 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/drywell_dose/</guid>
+      <description>&lt;p&gt;Visualization in ParaView of VTK file generated with Python script that I wrote
+that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR 3D Model</title>
+      <link>http://retzkek.github.io/posts/full_model/</link>
+      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/full_model/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
+proprietary data files of 3D model and calculation results.&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Core Map</title>
+      <link>http://retzkek.github.io/posts/coremap/</link>
+      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/coremap/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
+proprietary data files and allows user to interactively view axial and
+radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
