@@ -100,19 +100,6 @@ that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
     </item>
     
     <item>
-      <title>BWR 3D Model</title>
-      <link>http://retzkek.github.io/posts/full_model/</link>
-      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
-      
-      <guid>http://retzkek.github.io/posts/full_model/</guid>
-      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
-proprietary data files of 3D model and calculation results.&lt;/p&gt;
-
-&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Core Map</title>
       <link>http://retzkek.github.io/posts/coremap/</link>
       <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
@@ -121,6 +108,19 @@ proprietary data files of 3D model and calculation results.&lt;/p&gt;
       <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
 proprietary data files and allows user to interactively view axial and
 radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR 3D Model</title>
+      <link>http://retzkek.github.io/posts/full_model/</link>
+      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/full_model/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
+proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
 &lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
 </description>

@@ -7,7 +7,30 @@
     <language>en-us</language>
     
     
-    <updated>Wed, 30 Oct 2013 09:07:34 CDT</updated>
+    <updated>Sun, 24 Aug 2014 23:59:48 CDT</updated>
+    
+    <item>
+      <title>Gravitas</title>
+      <link>http://retzkek.github.io/posts/gravitas/</link>
+      <pubDate>Sun, 24 Aug 2014 23:59:48 CDT</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/gravitas/</guid>
+      <description>&lt;p&gt;Inspired by watching Notch start a game for
+&lt;a href=&#34;http://www.ludumdare.com/compo/2014/08/20/welcome-to-ludum-dare-30/&#34;&gt;LD30&lt;/a&gt; in
+&lt;a href=&#34;http://www.dartlang.org&#34;&gt;Dart&lt;/a&gt;, I decided to revisit this language and work on
+re-writing a game a had written years ago with Processing. Alas I was not able to devote
+the full weekend to the project, and ended up with little more than the base mechanics
+and display completed. Regardless, it was a fun weekend project.&lt;/p&gt;
+
+&lt;p&gt;The basic mechanic of the game is to utilize gravitational attraction between bodies
+to deliver a missile to a designated target. Right now it is more of a demo, where you can
+fire missiles from a planet and watch them follow gravitational orbits.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.kmr.me/gravitas/gravitas.html&#34;&gt;See it in action&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.github.com/retzkek/gravitas/&#34;&gt;Source at GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CloudFlare DDNS Client</title>
@@ -60,19 +83,6 @@ that reads proprietary data files of 3D model and calculation results.&lt;/p&gt;
     </item>
     
     <item>
-      <title>BWR 3D Model</title>
-      <link>http://retzkek.github.io/posts/full_model/</link>
-      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
-      
-      <guid>http://retzkek.github.io/posts/full_model/</guid>
-      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
-proprietary data files of 3D model and calculation results.&lt;/p&gt;
-
-&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Core Map</title>
       <link>http://retzkek.github.io/posts/coremap/</link>
       <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
@@ -81,6 +91,19 @@ proprietary data files of 3D model and calculation results.&lt;/p&gt;
       <description>&lt;p&gt;Generated with desktop application I wrote in C++ with Qt that reads
 proprietary data files and allows user to interactively view axial and
 radial maps of the data arrays (power, burnup, etc).&lt;/p&gt;
+
+&lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BWR 3D Model</title>
+      <link>http://retzkek.github.io/posts/full_model/</link>
+      <pubDate>Wed, 10 Jun 2009 10:10:10 UTC</pubDate>
+      
+      <guid>http://retzkek.github.io/posts/full_model/</guid>
+      <description>&lt;p&gt;Generated with desktop application I wrote in C++ with VTK that reads
+proprietary data files of 3D model and calculation results.&lt;/p&gt;
 
 &lt;p&gt;Image copyright TransWare Enterprises Inc. Used with permission.&lt;/p&gt;
 </description>
